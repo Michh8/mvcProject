@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="820" viewBox="0 0 1280 820" role="img" aria-labelledby="title desc">
+  <title id="title">Captura del catalogo turistico</title>
+  <desc id="desc">Vista del listado de lugares turisticos de El Salvador en tarjetas.</desc>
+  <rect width="1280" height="820" fill="#f7faf8"/>
+  <rect y="0" width="1280" height="62" fill="#ffffff"/>
+  <line x1="0" y1="62" x2="1280" y2="62" stroke="#d8dfdc"/>
+  <text x="80" y="39" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#17211f">Turismo<tspan fill="#0d7c66">SV</tspan></text>
+  <text x="1110" y="39" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#17211f">Catalogo</text>
+  <text x="80" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" fill="#c75f4b">CATALOGO TURISTICO MVC</text>
+  <text x="80" y="194" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#17211f">Lugares turisticos de El Salvador</text>
+  <text x="80" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#65716e">Datos cargados desde JSON, coordinados por controlador y presentados con Blade.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#65716e">
+    <rect x="80" y="274" width="112" height="38" rx="19" fill="none" stroke="#d8dfdc"/>
+    <text x="101" y="299">Cultural</text>
+    <rect x="204" y="274" width="96" height="38" rx="19" fill="none" stroke="#d8dfdc"/>
+    <text x="225" y="299">Playa</text>
+    <rect x="312" y="274" width="122" height="38" rx="19" fill="none" stroke="#d8dfdc"/>
+    <text x="333" y="299">Naturaleza</text>
+    <rect x="446" y="274" width="78" height="38" rx="19" fill="none" stroke="#d8dfdc"/>
+    <text x="467" y="299">Lago</text>
+  </g>
+  <g transform="translate(80 350)">
+    <rect width="350" height="390" rx="8" fill="#ffffff" stroke="#d8dfdc"/>
+    <rect width="350" height="210" rx="8" fill="#88b6cb"/>
+    <path d="M0 152 C90 95 158 176 232 126 C278 94 316 99 350 80 L350 210 L0 210 Z" fill="#0d7c66"/>
+    <circle cx="292" cy="58" r="34" fill="#f4b942"/>
+    <text x="22" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#c75f4b">PLAYA</text>
+    <text x="22" y="284" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#17211f">Playa El Tunco</text>
+    <text x="22" y="318" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#65716e">La Libertad / Desde $0.00</text>
+    <rect x="22" y="340" width="306" height="38" rx="8" fill="#0d7c66"/>
+    <text x="132" y="365" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#ffffff">Ver detalle</text>
+  </g>
+  <g transform="translate(465 350)">
+    <rect width="350" height="390" rx="8" fill="#ffffff" stroke="#d8dfdc"/>
+    <rect width="350" height="210" rx="8" fill="#a6d2e3"/>
+    <path d="M0 170 C77 104 148 132 215 88 C272 49 320 66 350 54 L350 210 L0 210 Z" fill="#2f7d5c"/>
+    <path d="M0 190 C80 162 152 184 223 145 C280 116 319 129 350 117 L350 210 L0 210 Z" fill="#075846"/>
+    <text x="22" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#c75f4b">LAGO</text>
+    <text x="22" y="284" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#17211f">Lago de Coatepeque</text>
+    <text x="22" y="318" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#65716e">Santa Ana / Desde $8.00</text>
+    <rect x="22" y="340" width="306" height="38" rx="8" fill="#0d7c66"/>
+    <text x="132" y="365" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#ffffff">Ver detalle</text>
+  </g>
+  <g transform="translate(850 350)">
+    <rect width="350" height="390" rx="8" fill="#ffffff" stroke="#d8dfdc"/>
+    <rect width="350" height="210" rx="8" fill="#d8c0a4"/>
+    <path d="M65 158 L175 62 L285 158 Z" fill="#82694e"/>
+    <rect x="95" y="158" width="160" height="34" fill="#614a37"/>
+    <rect x="118" y="118" width="114" height="34" fill="#745a42"/>
+    <text x="22" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#c75f4b">ARQUEOLOGIA</text>
+    <text x="22" y="284" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#17211f">Joya de Ceren</text>
+    <text x="22" y="318" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#65716e">La Libertad / Desde $1.00</text>
+    <rect x="22" y="340" width="306" height="38" rx="8" fill="#0d7c66"/>
+    <text x="132" y="365" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#ffffff">Ver detalle</text>
+  </g>
+</svg>

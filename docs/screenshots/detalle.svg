@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="820" viewBox="0 0 1280 820" role="img" aria-labelledby="title desc">
+  <title id="title">Captura del detalle de destino</title>
+  <desc id="desc">Vista de detalle de Playa El Tunco con datos del destino y formulario de contacto.</desc>
+  <rect width="1280" height="820" fill="#f7faf8"/>
+  <rect y="0" width="1280" height="62" fill="#ffffff"/>
+  <line x1="0" y1="62" x2="1280" y2="62" stroke="#d8dfdc"/>
+  <text x="80" y="39" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#17211f">Turismo<tspan fill="#0d7c66">SV</tspan></text>
+  <text x="80" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#17211f">Volver al catalogo</text>
+  <g transform="translate(80 145)">
+    <text x="0" y="0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" fill="#c75f4b">PLAYA / LA LIBERTAD</text>
+    <text x="0" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#17211f">Playa El Tunco</text>
+    <text x="0" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#65716e">Destino costero reconocido por surf, atardeceres y ambiente turistico.</text>
+    <rect x="0" y="148" width="695" height="405" rx="8" fill="#87b5c8"/>
+    <circle cx="590" cy="75" r="42" fill="#f4b942"/>
+    <path d="M0 282 C180 170 315 320 475 215 C565 155 638 172 695 128 L695 405 L0 405 Z" fill="#0d7c66"/>
+    <path d="M0 350 C110 316 190 368 288 322 C385 276 510 306 695 255 L695 405 L0 405 Z" fill="#075846"/>
+    <rect x="0" y="585" width="695" height="145" rx="8" fill="#ffffff" stroke="#d8dfdc"/>
+    <text x="24" y="625" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" fill="#17211f">Datos del destino</text>
+    <text x="24" y="665" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#65716e">Precio: Desde $0.00 USD     Horario: Abierto todo el dia</text>
+    <text x="24" y="700" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#65716e">Duracion: 1 dia     Mejor epoca: Noviembre a febrero</text>
+  </g>
+  <g transform="translate(815 145)">
+    <rect width="385" height="530" rx="8" fill="#ffffff" stroke="#d8dfdc"/>
+    <text x="24" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#17211f">Solicitar informacion</text>
+    <text x="24" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#17211f">Nombre</text>
+    <rect x="24" y="119" width="337" height="46" rx="8" fill="#ffffff" stroke="#d8dfdc"/>
+    <text x="24" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#17211f">Correo electronico</text>
+    <rect x="24" y="212" width="337" height="46" rx="8" fill="#ffffff" stroke="#d8dfdc"/>
+    <text x="24" y="291" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#17211f">Mensaje</text>
+    <rect x="24" y="305" width="337" height="118" rx="8" fill="#ffffff" stroke="#d8dfdc"/>
+    <rect x="24" y="452" width="337" height="48" rx="8" fill="#0d7c66"/>
+    <text x="130" y="483" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800" fill="#ffffff">Enviar solicitud</text>
+  </g>
+</svg>
